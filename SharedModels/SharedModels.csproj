@@ -6,7 +6,7 @@
     <Authors>ITSC</Authors>
     <PackageDescription>Package with common models</PackageDescription>
     <RepositoryUrl>https://github.com/ITSC-Practica-Profesionalizante-1-2020/SharedModels</RepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
